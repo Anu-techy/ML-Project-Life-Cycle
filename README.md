@@ -1,7 +1,7 @@
 # ML-Project-Life-Cycle
 
 1. Problem Statement
-2. Requirements and scope
+2. Requirements and scope ( Business & Technical Team ) -- jira ( to create tasksnand assign), confluence -- agile--scrum, kanban, notion
 3. Data Collection
 4. Data Cleaning, Preparation & EDA
 5. Feature Engineering
@@ -9,3 +9,5 @@
 7. Model Evaluation & Fine Tuning
 8. Model Deployment in production
 9. Monitoring and Feedback using ML Ops
+
+
